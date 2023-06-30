@@ -7,10 +7,8 @@ efficient solutions. I'm actively seeking a student position as a software devel
 
 - 📄 You can get my resume [here.](https://drive.google.com/file/d/1eLj3_NmnGdpqZ6ohGxpy-a8N9kRRb4F0/view?usp=sharing)
 
-- 🌱 I’m currently learning **Operatin systems and Full stack development**
+- 🌱 I’m currently learning **Operating systems and Full stack development**
 
-
-- ⚡ Fun fact **kj**
 
 # Projects
  [Full stack web Chat app](https://github.com/adital2512/ADE-Chat)
