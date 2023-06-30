@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adi Tal</h1>
+[<h1 align="center">Hi 👋, I'm Adi Tal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,3 +12,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adital2512&show_icons=true&locale=en&layout=compact" alt="adital2512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adital2512&show_icons=true&locale=en" alt="adital2512" /></p>
+](https://github.com/adital2512/ADE-Chat)https://github.com/adital2512/ADE-Chat
