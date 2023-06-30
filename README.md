@@ -14,9 +14,13 @@ efficient solutions. I'm actively seeking a student position as a software devel
 
 # Projects
  [Full stack web Chat app](https://github.com/adital2512/ADE-Chat)
+ 
  [Multy thread TCP KNN classifier Server + Client](https://github.com/adital2512/KNN-machineLearning-Classifier)
+ 
  [auto grading system](https://github.com/adital2512/os2-grading-system)
+ 
  [Multy threaded news publisher](https://github.com/adital2512/Multi-Threaded-News-Publisher)
+ 
  
 
 <h3 align="left">Connect with me:</h3>
