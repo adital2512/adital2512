@@ -13,16 +13,17 @@ efficient solutions. I'm actively seeking a student position as a software devel
 - ⚡ Fun fact **kj**
 
 # Projects
-- 🤝 I’m looking for help with [Full stack web Chat app](https://github.com/adital2512/ADE-Chat)
+ [Full stack web Chat app](https://github.com/adital2512/ADE-Chat)
+ [Multy thread TCP KNN classifier Server + Client](https://github.com/adital2512/KNN-machineLearning-Classifier)
+ [auto grading system](https://github.com/adital2512/os2-grading-system)
+ [Multy threaded news publisher](https://github.com/adital2512/Multi-Threaded-News-Publisher)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adi-tal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-tal1" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/adi.tal.169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adi.tal.169/" height="30" width="40" /></a>
 </p>
-
-## 🔗 Projects
-[![ADE Chat](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/adital2512/ADE-Chat)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
