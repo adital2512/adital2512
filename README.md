@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adi Tal</h1>
-<h3 align="center">A passionate frontend sfsdfsf</h3>
+<h3 align="center">A motivated self learner Computer Science student specializing in backend 
+development. I have a strong foundation in software development and a passion for 
+efficient solutions. I'm actively seeking a student position as a software developer.</h3>
+<h2>
+  - 🤝 I’m looking for help with [hgfhgfh](https://github.com/adital2512/ADE-Chat)  
+</h2>
 
-  - 🤝 I’m looking for help with [hgfhgfh](https://github.com/adital2512/ADE-Chat)
 - 📫 How to reach me **adi.tal.25.12@gmail.com**
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1eLj3_NmnGdpqZ6ohGxpy-a8N9kRRb4F0/view?usp=sharing)
