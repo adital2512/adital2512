@@ -12,7 +12,7 @@ efficient solutions. I'm actively seeking a student position as a software devel
 
 - ⚡ Fun fact **kj**
 
-#Projects
+# Projects
 - 🤝 I’m looking for help with [Full stack web Chat app](https://github.com/adital2512/ADE-Chat)
 
 <h3 align="left">Connect with me:</h3>
