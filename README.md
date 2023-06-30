@@ -3,8 +3,6 @@
 development. I have a strong foundation in software development and a passion for 
 efficient solutions. I'm actively seeking a student position as a software developer.</h3>
 
-  - 🤝 I’m looking for help with [hgfhgfh](https://github.com/adital2512/ADE-Chat)  
-
 - 📫 How to reach me **adi.tal.25.12@gmail.com**
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1eLj3_NmnGdpqZ6ohGxpy-a8N9kRRb4F0/view?usp=sharing)
@@ -17,6 +15,8 @@ efficient solutions. I'm actively seeking a student position as a software devel
 <a href="https://fb.com/https://www.facebook.com/adi.tal.169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adi.tal.169/" height="30" width="40" /></a>
 </p>
 
+## 🔗 Links
+[![ADE Chat](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/adital2512/ADE-Chat)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
