@@ -15,7 +15,7 @@ efficient solutions. I'm actively seeking a student position as a software devel
  
  [Multy thread TCP KNN classifier Server + Client](https://github.com/adital2512/KNN-machineLearning-Classifier)
  
- [auto grading system](https://github.com/adital2512/os2-grading-system)
+ [Auto grading system](https://github.com/adital2512/os2-grading-system)
  
  [Multy threaded news publisher](https://github.com/adital2512/Multi-Threaded-News-Publisher)
 
