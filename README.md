@@ -5,7 +5,7 @@ efficient solutions. I'm actively seeking a student position as a software devel
 
 - 📫 Reach me at **adi.tal.25.12@gmail.com**
 
-- 📄 You can get my resume [here.](https://drive.google.com/drive/my-drive)
+- 📄 You can get my resume [here.](https://drive.google.com/file/d/1fACkxPR3vP4Bdl1NAk7oZm9vDFRT_fro/view?usp=sharing)
 
 - 🌱 I’m currently learning **Operating systems and Full stack development**
 
